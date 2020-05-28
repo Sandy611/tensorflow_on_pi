@@ -1,2 +1,10 @@
 # tensorflow_on_pi
 Install tensorflow and keras on Raspberry pi
+Step 1: Open "Installation of Tensorflow on Raspberry pi with Python 3.x" file in raw and run the codes in teminal.
+Step 2: After installation of tensorflow, open "Installation of Keras" file in raw and run the code in terminal.
+
+And DONE!!!
+Istallation of tensorflow and keras on Raspberry Pi is successful
+
+Note:
+  Working on virtual environment is necessary for installation of tensorflow
